@@ -1,0 +1,5 @@
+I:\C0D3\VoiceManip\VoiceManip\VoiceManipLibrary\bin\Debug\netstandard2.0\VoiceManipLibrary.deps.json
+I:\C0D3\VoiceManip\VoiceManip\VoiceManipLibrary\bin\Debug\netstandard2.0\VoiceManipLibrary.dll
+I:\C0D3\VoiceManip\VoiceManip\VoiceManipLibrary\obj\Debug\netstandard2.0\VoiceManipLibrary.csprojAssemblyReference.cache
+I:\C0D3\VoiceManip\VoiceManip\VoiceManipLibrary\obj\Debug\netstandard2.0\VoiceManipLibrary.AssemblyInfoInputs.cache
+I:\C0D3\VoiceManip\VoiceManip\VoiceManipLibrary\obj\Debug\netstandard2.0\VoiceManipLibrary.AssemblyInfo.cs
